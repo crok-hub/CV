@@ -1,0 +1,33 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: whitesmoke;
+}
+
+h1,
+h2 {
+    color: #1F4E79;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    color: #1F7977;
+}
+
+h4 {
+    color: #4e791f;
+}
+
+#cv {
+    align-items: center;
+    background-color: white;
+    width: 44%;
+    min-width: 720px;
+    vertical-align: middle;
+}
+
+article.mission {
+
+}
